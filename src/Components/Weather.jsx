@@ -1,7 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
 import './Weather.css'
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 import search_icon from '../assets/search.png'
 import clear_icon from '../assets/clear.png'
 import cloud_icon from '../assets/cloud.png'
